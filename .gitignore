@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+tmp
+*~
+~*
+*.swp
+*.bak
+*.backup
+*.bk
+.vimsessions
+tags
+/.vagrant
+/.idea
+workspace.xml
+vcs.xml
+*.iml
